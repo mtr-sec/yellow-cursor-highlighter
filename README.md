@@ -81,4 +81,17 @@ Right-click the app's system-tray icon and enable **Start with Windows**. Disabl
 - Designed for Windows 10 and Windows 11.
 - The highlight is a mouse-pointer overlay, not a text-caret highlighter.
 - The overlay is designed not to intercept mouse clicks or take keyboard focus.
-- The application has not been runtime-tested on every Windows configuration. If the overlay behaves unexpectedly, exit with `Ctrl + Alt + Q`.
+- The application has not been runtime-tested on every Windows configuration.
+- If the overlay behaves unexpectedly, exit with `Ctrl + Alt + Q`.
+
+## Credits & License
+
+- **Developer & Maintainer:** MTR-sec
+- **GitHub:** [@mtr-sec](https://github.com/mtr-sec)
+- **Project:** Yellow Cursor Highlighter
+- **Purpose:** A lightweight Windows utility developed to improve mouse pointer visibility.
+- **License:** [MIT License](LICENSE)
+
+This project is developed and maintained by **MTR-sec**. It is released under the MIT License, allowing anyone to use, copy, modify, distribute, and contribute to the project under the terms of the license.
+
+See the [LICENSE](LICENSE) file for full license details.
