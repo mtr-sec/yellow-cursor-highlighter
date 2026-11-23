@@ -81,8 +81,7 @@ Right-click the app's system-tray icon and enable **Start with Windows**. Disabl
 - Designed for Windows 10 and Windows 11.
 - The highlight is a mouse-pointer overlay, not a text-caret highlighter.
 - The overlay is designed not to intercept mouse clicks or take keyboard focus.
-- The application has not been runtime-tested on every Windows configuration.
-- If the overlay behaves unexpectedly, exit with `Ctrl + Alt + Q`.
+- The application has not been runtime-tested on every Windows configuration. If the overlay behaves unexpectedly, exit with `Ctrl + Alt + Q`.
 
 ## Credits & License
 
