@@ -61,7 +61,7 @@ py -m pip install pyinstaller
 Then build the application:
 
 ```bat
-py -m PyInstaller --noconfirm --clean --onefile --windowed --name "Yellow Cursor Highlighter" --collect-all PySide6 src\yellow_cursor_highlighter.py
+py -m PyInstaller --noconfirm --clean --onefile --windowed --name "Yellow Cursor Highlighter" --collect-all PySide6 yellow_cursor_highlighter.py
 ```
 
 When the build finishes, find the application here:
